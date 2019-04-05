@@ -1,2 +1,2 @@
-# ML_imdb_moview_KmeanClustering
+# ML_imdb_movie_KmeanClustering
 IMDB movies clustering
